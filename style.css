@@ -1,0 +1,86 @@
+.jumbotron {
+    background: url("https://s3-us-west-1.amazonaws.com/mapscontent/images/YEFR+2018/title-bg-yefr-2018-grad-2.jpg");
+    background-size: cover;
+}
+.jumbotron-text {
+    color: white;
+}
+.subscribe {
+    color: white;
+    text-align: center;
+}
+.subscribe-btn {
+    background-color: #ff6f00;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+.form-control {
+    border-radius: 18px;
+}
+.form-inline {
+    text-align: center;
+}
+.apply-now-txt {
+    color: white;
+}
+.apply-now-btn {
+    background-color: #ff6f00;
+    border: none;
+    color: white;
+    padding: 10px;    
+}
+.card-container {
+    background-color: rgb(245, 245, 245);
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 18px;
+    max-width: 1200px;
+    align-content: center;
+}
+.card-img {
+    width: 250px;
+    height: 113.41px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.card-title {
+    text-align: center;
+}
+.card {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.font-family {
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.card-container-title {
+    font-weight: bold;
+}
+.footer {
+    padding: 30px;
+    background-color: #2B2B2B;
+    color: #FFFFFF;
+}
+
+.footer-img {
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+}
+.fab {
+    margin: 5px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    padding: 1px;
+}
+.footer-privacy-link {
+    color: white;
+    padding:1px;
+    margin-left: 20px;
+}
+.footer-donate-link {
+    color: white;
+    padding:1px;
+}
